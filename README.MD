@@ -74,12 +74,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     
    
     <p>Lázaro kauã<br>
-    <a href="https://github.com/Lazarokaua">
-    GitHub</a>
-    <a href="https://www.linkedin.com/in/lazaro-kaua/">LinkedIn</a>
-
-    <a href="https://www.instagram.com/lazarokaua_/">
-    Instagram</a>
+    [GitHub](https://github.com/Lazarokaua)
+    [LinkedIn](https://www.linkedin.com/in/lazaro-kaua/)
+    [Instagram](https://www.instagram.com/lazarokaua_/)
+    
 
 </p>
 <br/><br/>
