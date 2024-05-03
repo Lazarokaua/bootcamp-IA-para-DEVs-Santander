@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="../ebook-libras/assets/profile.jpg"
+      src="prompts-recipe-to-create-a-ebook/assets/profile.jpg"
     />
     <p>
     <p>&nbsp&nbsp&nbspLázaro kauã<br>
