@@ -72,15 +72,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
     
-    <p>
+   
     <p>Lázaro kauã<br>
     <a href="https://github.com/Lazarokaua">
-    GitHub</a>&nbsp;|&nbsp;
+    GitHub</a>
     <a href="https://www.linkedin.com/in/lazaro-kaua/">LinkedIn</a>
-&nbsp;|&nbsp;
+
     <a href="https://www.instagram.com/lazarokaua_/">
     Instagram</a>
-&nbsp;|&nbsp;</p>
+
 </p>
 <br/><br/>
 <p>
