@@ -70,18 +70,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Dev
 
-<p>
-    
-   
-    <p>Lázaro kauã<br>
-    [GitHub](https://github.com/Lazarokaua)
-    [LinkedIn](https://www.linkedin.com/in/lazaro-kaua/)
-    [Instagram](https://www.instagram.com/lazarokaua_/)
+  
+##Lázaro kauã
+
+
+[GitHub](https://github.com/Lazarokaua)
+[LinkedIn](https://www.linkedin.com/in/lazaro-kaua)
+[Instagram](https://www.instagram.com/lazarokaua_)
     
 
-</p>
-<br/><br/>
-<p>
 
 ---
 
