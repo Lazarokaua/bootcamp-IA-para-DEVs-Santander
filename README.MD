@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/coverr.png"
     width="400"  
 />
 </p>
@@ -38,16 +38,17 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Conteúdo  | User
+prompt                                                                                             
+
+User
 me sugira nomes criativos para a criação de um ebook eletrônico, a ideia é criar um tema importante com uma pegada leve e descontraída, ao mesmo tempo passar as informações importantes de maneira clara e concisa.
+
 {REGRAS}
-> o nome precisa ser impactante
-> o nome tem que ter trocadilho com linguagem de programação.
-> ter um tema tecnologico
-> e me fornecer um prompt para criar uma imagem com IA
-> o ebook é sobre lingua brasileira de sinais                                                   
+ o nome precisa ser impactante
+ o nome tem que ter trocadilho com linguagem de programação.
+ ter um tema tecnologico
+ e me fornecer um prompt para criar uma imagem com IA
+ o ebook é sobre lingua brasileira de sinais                                                   
 
 
 
@@ -74,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="../prompts-recipe-to-create-a-ebook-main/assets/profile.jpg"
+      src="../ebook-libras/assets/profile.jpg"
     />
     <p>
     <p>&nbsp&nbsp&nbspLázaro kauã<br>
