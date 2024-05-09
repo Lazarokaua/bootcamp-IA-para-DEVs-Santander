@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Dev
 
   
-##Lázaro kauã
+## Lázaro kauã
 
 
 [GitHub](https://github.com/Lazarokaua)
