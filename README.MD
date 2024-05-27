@@ -58,8 +58,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 1. Use os prompts de roteiro no `gemini`
+- 🤖 2. Use os prompts de roteiro gerados pelo gemini no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 Teacher
@@ -90,6 +90,24 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
+<p>
+
+---
+## 👨‍💻 Desenvolvedor
+
+<img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/132157522?v=4"
+/>
+<p>&nbsp&nbsp&nbspLázaro kauã<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/Lazarokaua">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/lazaro-kaua/">LinkedIn</a>
+&nbsp;|&nbsp;</p>
+</p>
 <p>
 
 ---
