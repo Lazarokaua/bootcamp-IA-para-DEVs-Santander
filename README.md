@@ -25,12 +25,15 @@
 
 - Conteúdo gerados Artificialmente pelas principais IAs do mercado.
 
-## 📚 Registros do meu tempo dedicado aos estudos.
-
+## 📚 Registros do meu tempo dedicado aos estudos
 
 ---
 
 <img src="../bootcamp-IA-para-DEVs-Santander/assets/tempo.png" alt="Tempo Total de Estudos" width="600"/>
+
+---
+
+- [`Tempo total de estudos`](/bootcamp-IA-para-DEVs-Santander/assets/tempo.png)
 
 ---
 ## 👨‍💻 Teacher
