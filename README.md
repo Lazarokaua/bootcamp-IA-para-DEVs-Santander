@@ -27,14 +27,9 @@
 
 ## 📚 Registros do meu tempo dedicado aos estudos.
 
-<<<<<<< HEAD
 ---
 
-<img src="../bootcamp-IA-para-DEVs-Santander/assets/tempo.png" alt="Tempo Total de Estudos" width="600"/>
-=======
-
-- [`Tempo total de estudos`](/bootcamp-IA-para-DEVs-Santander/assets/total%20Santander.png)
->>>>>>> 15622dd00a3cddb1f6ac420d8770485bbcdaedce
+- [`Tempo total de estudos`](/bootcamp-IA-para-DEVs-Santander/assets/tempo.png)
 
 ---
 ## 👨‍💻 Teacher
