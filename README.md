@@ -27,7 +27,7 @@
 
 ## 📚 Registros do meu tempo dedicado aos estudos.
 
-![Tempo Total Dedicado](assets/total Santander.png)
+![Tempo Total Dedicado](assets/totalSantander.png)
 
 
 ## 👨‍💻 Teacher
