@@ -27,9 +27,11 @@
 
 ## 📚 Registros do meu tempo dedicado aos estudos.
 
-<img src="../bootcamp-IA-para-DEVs-Santander/assets/total Santander.png" alt="Tempo Total de Estudos" width="600"/>
+---
 
+<img src="../bootcamp-IA-para-DEVs-Santander/assets/tempo.png" alt="Tempo Total de Estudos" width="600"/>
 
+---
 ## 👨‍💻 Teacher
 
 <p>
