@@ -27,7 +27,7 @@
 
 ## 📚 Registros do meu tempo dedicado aos estudos.
 
-![Tempo Total Dedicado](bootcamp-IA-para-DEVs-Santander/assets/total%20Santander.png)
+![Tempo Total Dedicado](assets/total Santander.png)
 
 
 ## 👨‍💻 Teacher
