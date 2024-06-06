@@ -29,11 +29,7 @@
 
 ---
 
-<img src="../bootcamp-IA-para-DEVs-Santander/assets/tempo.png" alt="Tempo Total de Estudos" width="600"/>
-
----
-
-- [`Tempo total de estudos`](/bootcamp-IA-para-DEVs-Santander/assets/tempo.png)
+<img src="https://github.com/Lazarokaua/bootcamp-IA-para-DEVs-Santander/blob/main/assets/tempo.png" align="center" width="700"/>
 
 ---
 ## 👨‍💻 Teacher
